@@ -171,6 +171,8 @@ r = int(input('Введите радиус: '))
 # revers_l = f
 import  math
 
+
+
 h = math.sqrt(x**2 + y ** 2)
 if h <= r:
     print('Монетка где-то рядом')
